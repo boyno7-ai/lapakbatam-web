@@ -1,0 +1,8 @@
+export default function Home() {
+  return (
+    <div style={{ textAlign: "center", padding: "50px" }}>
+      <h1>Selamat Datang di LapakBatam 🚀</h1>
+      <p>Marketplace lokal Batam dengan dukungan kurir terpercaya.</p>
+    </div>
+  );
+}
